@@ -1,0 +1,12 @@
+{
+  "system": "01",
+  "test_date": "2025-02-25",
+  "sample_submission": {
+    "timestamp": "2025-02-25T12:30:00Z",
+    "data": "Final automation test complete and recording the Loom",
+    "source": "Google Form",
+    "destination": "Email notification"
+  },
+  "result": "SUCCESS",
+  "email_delivered_to": "abdhaseeb.tech@gmail.com"
+}
