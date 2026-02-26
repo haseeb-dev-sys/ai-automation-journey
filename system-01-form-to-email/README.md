@@ -35,9 +35,3 @@
 ## Test Data
 
 See [test-data.json](test-data.json) for sample submission.
-
-## Next Iteration
-
-- [ ] Add WhatsApp notification
-- [ ] Add timestamp formatting
-- [ ] Rewrite in Python (Month 2)
